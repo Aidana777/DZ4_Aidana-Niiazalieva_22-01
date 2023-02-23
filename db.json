@@ -3,6 +3,20 @@
         "image": "./imgs/jostic.png",
         "title": "NINTENDO",
         "price": "30 143 ₽",
+        "old": "30 143 ₽",
+        "desribtion": "Игровая приставка Nintendo Switch красная/синяя (Japan)"
+    },
+    {
+        "image": "./imgs/nintendo.png",
+        "title": "NINTENDO",
+        "price": "34 552 ₽",
+        "desribtion": "NINTENDO Игровая приставка Nintendo Switch (OLED) белая (Japan spec)"
+    },
+    {
+        "image": "./imgs/jostic.png",
+        "title": "NINTENDO",
+        "price": "30 143 ₽",
+        "old": "30 143 ₽",
         "desribtion": "Игровая приставка Nintendo Switch красная/синяя (Japan)"
     },
     {
@@ -34,7 +48,8 @@
         "title": "NINTENDO",
         "price": "30 143 ₽",
         "desribtion": "Игровая приставка Nintendo Switch красная/синяя (Japan)"
-    },
+    }
+
     {
         "image": "./imgs/jostic.png",
         "title": "NINTENDO",

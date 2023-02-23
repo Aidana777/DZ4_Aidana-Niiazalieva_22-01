@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.products {
+    display: grid;
+    grid-template-columns: repeat(5, 252px);
+    gap: 10px;
+    width: 1180px;
+    margin: 0 auto;
+    gap: 20px;
+}
+
+.product {
+    width: 500px;
+    height: 500px;
+
+
+}
+
+.product img {
+    width: 252px;
+    height: 337px;
+}
+
+.desribtion {
+    width: 252px;
+    height: 337px;
+}
+
+.title {
+    width: 252px;
+    height: 337px;
+
+}
