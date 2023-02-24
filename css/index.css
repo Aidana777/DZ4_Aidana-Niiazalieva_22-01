@@ -8,21 +8,20 @@
     display: grid;
     grid-template-columns: repeat(5, 252px);
     gap: 10px;
-    width: 1180px;
-    margin: 0 auto;
-    gap: 20px;
+    justify-content: center;
+    align-items: center;
 }
 
 .product {
     width: 500px;
-    height: 500px;
-
-
+    height: 390px;
+    /* background-color: #f6f6f9; */
 }
 
 .product img {
     width: 252px;
     height: 337px;
+
 }
 
 .desribtion {
@@ -33,5 +32,25 @@
 .title {
     width: 252px;
     height: 337px;
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 400;
+}
 
+.price {
+    display: flex;
+}
+.current__price{
+    font-size: 18px;
+    line-height: 24px;
+    color: #242424;
+    font-weight: 700;
+    margin-right: 10px;
+}
+.old__price{
+    font-size: 12px;
+    line-height: 16px;
+    color: #868695;
+    margin-top: 5px;
+    text-decoration: line-through;
 }

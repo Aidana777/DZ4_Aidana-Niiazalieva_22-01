@@ -2,64 +2,72 @@
     {
         "image": "./imgs/jostic.png",
         "title": "NINTENDO",
-        "price": "30 143 ₽",
-        "old": "30 143 ₽",
-        "desribtion": "Игровая приставка Nintendo Switch красная/синяя (Japan)"
+        "price": "34 552",
+        "old": "47 990",
+        "desribtion": "/Игровая приставка Nintendo Switch красная/синяя (Japan)"
     },
     {
         "image": "./imgs/nintendo.png",
         "title": "NINTENDO",
-        "price": "34 552 ₽",
-        "desribtion": "NINTENDO Игровая приставка Nintendo Switch (OLED) белая (Japan spec)"
+        "price": "30 143",
+        "old": "44 990      ",
+        "desribtion": "/Игровая приставка Nintendo Switch (OLED) белая (Japan spec)"
     },
     {
         "image": "./imgs/jostic.png",
         "title": "NINTENDO",
-        "price": "30 143 ₽",
-        "old": "30 143 ₽",
-        "desribtion": "Игровая приставка Nintendo Switch красная/синяя (Japan)"
+        "price": "31 000",
+        "old": "30 143",
+        "desribtion": "/Игровая приставка Nintendo Switch красная/синяя (Japan)"
     },
     {
         "image": "./imgs/jostic.png",
         "title": "NINTENDO",
-        "price": "30 143 ₽",
-        "desribtion": "Игровая приставка Nintendo Switch красная/синяя (Japan)"
+        "old": "39 990",
+        "price": "29 992",
+        "desribtion": "/Игровая приставка Nintendo Switch красная/синяя (Japan)"
     },
     {
         "image": "./imgs/jostic.png",
         "title": "NINTENDO",
-        "price": "30 143 ₽",
-        "desribtion": "Игровая приставка Nintendo Switch красная/синяя (Japan)"
+        "old": "30 143",
+        "price": "2 190",
+        "desribtion": "/Игровая приставка Nintendo Switch красная/синяя (Japan)"
     },
     {
         "image": "./imgs/jostic.png",
         "title": "NINTENDO",
-        "price": "30 143 ₽",
-        "desribtion": "Игровая приставка Nintendo Switch красная/синяя (Japan)"
+        "old": "299",
+        "price": "104",
+        "desribtion": "/Игровая приставка Nintendo Switch красная/синяя (Japan)"
     },
     {
         "image": "./imgs/jostic.png",
         "title": "NINTENDO",
-        "price": "30 143 ₽",
-        "desribtion": "Игровая приставка Nintendo Switch красная/синяя (Japan)"
+        "old": "3 899",
+        "price": "1 091",
+        "desribtion": "/Игровая приставка Nintendo Switch красная/синяя (Japan)"
     },
     {
         "image": "./imgs/jostic.png",
         "title": "NINTENDO",
-        "price": "30 143 ₽",
-        "desribtion": "Игровая приставка Nintendo Switch красная/синяя (Japan)"
+        "old": "41 999",
+        "price": "32 759",
+        "desribtion": "/Игровая приставка Nintendo Switch красная/синяя (Japan)"
     },
 
     {
         "image": "./imgs/jostic.png",
         "title": "NINTENDO",
-        "price": "30 143 ₽",
-        "desribtion": "Игровая приставка Nintendo Switch красная/синяя (Japan)"
+        "old": "30 143",
+        "price": "31 000",
+        "desribtion": "/Игровая приставка Nintendo Switch красная/синяя (Japan)"
     },
     {
         "image": "./imgs/jostic.png",
         "title": "NINTENDO",
-        "price": "30 143 ₽",
-        "desribtion": "Игровая приставка Nintendo Switch красная/синяя (Japan)"
+        "old": "1 158",
+        "price": "1 783",
+        "desribtion": "/Игровая приставка Nintendo Switch красная/синяя (Japan)"
     }
 ]

@@ -8,14 +8,13 @@ http.onload = function () {
         for (let item of products) {
             output += `
             <div class="product">
-
             <img src="${item.image}" alt="${item.image}">
+            
             <div class="price">
-                <p class="current__price"> ${item.price}  </p>
-                <p class="old__price"></p>
-                <p class="title">${item.title}<span  class="desribtion">${item.desribtion}</span></p>
-      
-            </div>
+                <p class="current__price"> ${item.price}₽  </p>
+                <p class="old__price">${item.old}₽</p>
+                </div>
+                <p class="title">${item.title}<span  class="desribtion">${item.desribtion}</span></p>   
         </div>
             `;
         }
