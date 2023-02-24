@@ -7,14 +7,18 @@
 .products {
     width: 500px;
     margin: 0 auto;
-    height: 330px;
+   
     display: grid;
     grid-template-columns: repeat(5, 252px);
-    gap: 20px;
+    gap: 15px;
     justify-content: center;
     align-items: center;
 }
 
+.product {
+    height: 400px;
+    margin-top: 20px;
+}
 
 .product img {
     background-color: #f6f6f9;
