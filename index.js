@@ -14,7 +14,9 @@ http.onload = function () {
                 <p class="current__price"> ${item.price}₽  </p>
                 <p class="old__price">${item.old}₽</p>
                 </div>
+                <div class="texts">
                 <p class="title">${item.title}<span  class="desribtion">${item.desribtion}</span></p>   
+                </div>
         </div>
             `;
         }

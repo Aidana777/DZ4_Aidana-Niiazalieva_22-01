@@ -27,12 +27,17 @@
     cursor: pointer;
 
 }
-
+.texts{
+    margin-left: 10px;
+    width: 140px;
+    height: 200px;
+}
 .desribtion {
     font-size: 14px;
     line-height: 20px;
     color: #9d9da5;
     font-weight: 400;
+  
 }
 
 .title {
@@ -46,6 +51,7 @@
 
 .price {
     display: flex;
+    margin-left: 10px;
 }
 
 .current__price {
