@@ -29,8 +29,6 @@
 }
 .texts{
     margin-left: 10px;
-    width: 140px;
-    height: 200px;
 }
 .desribtion {
     font-size: 14px;
@@ -41,8 +39,8 @@
 }
 
 .title {
-    width: 252px;
-    height: 337px;
+   width: 220px;
+   height: 110px;
     font-size: 14px;
     line-height: 20px;
     font-weight: 400;
