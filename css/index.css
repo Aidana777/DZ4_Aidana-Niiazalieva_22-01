@@ -5,6 +5,9 @@
 }
 
 .products {
+    width: 500px;
+    margin: 0 auto;
+    height: 330px;
     display: grid;
     grid-template-columns: repeat(5, 252px);
     gap: 20px;
@@ -12,11 +15,6 @@
     align-items: center;
 }
 
-.product {
-    width: 500px;
-    height: 400px;
-
-}
 
 .product img {
     background-color: #f6f6f9;
@@ -27,20 +25,22 @@
     cursor: pointer;
 
 }
-.texts{
+
+.texts {
     margin-left: 10px;
 }
+
 .desribtion {
     font-size: 14px;
     line-height: 20px;
     color: #9d9da5;
     font-weight: 400;
-  
+
 }
 
 .title {
-   width: 220px;
-   height: 110px;
+    width: 220px;
+    height: 110px;
     font-size: 14px;
     line-height: 20px;
     font-weight: 400;
